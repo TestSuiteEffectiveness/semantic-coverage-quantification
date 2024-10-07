@@ -5,8 +5,8 @@ The scripts directory includes:
 3. Semantic Coverage: to compute Partial and correctness semantic coverge in respect of R1,R2 and R3
 4. Inclusion: to find the inclusion among the metrics
 The data directory includes:
-1. results of the experiments
+1. Results of the experiments
 2. T0: output of T0
 3. T1..T20
 4. Specifications: R1, R2 and R3
-5. benchmark: include the source file: FastMath and test class FastMathTest
+5. Benchmark: include the source file: FastMath and test class FastMathTest
